@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" type="text/css" href="css/mifoto.css">
+		<!--ESTE TE VA A AYUDAR CONSIDERA TENER ESTA ESTRUCTURA INICIAL-->
+	</head>
+	<body>
+	<!--AQUI EN BODY TRATA DE COLOCAR TODO EN CAJAS PARA QUE LUEGO EN UN DISEÑO FUTURO ELASTICO  Y LUEGO RESPONSIVO TE SEA MAS FLEXIBLE Y FACIL DE MEJORAR ;)
+	PD: COLOCA CADA COSA EN UN DIV Y DALE UN ID  asi: <div id="cajita1"></div>-->
+		<center><h1>VAMOS A POR UN ÑANDU.... ;)</h1></center>
+
+				<div id="cajita1">
+					<h2>Vamos Con todo!!!!!</h2>
+				</div>
+				<section id="cajitaSEction">
+					<h2> SOLO LA PRACTICA TE AYUDARA ;)</h2>
+				</section>
+				<div id="MiInfo">
+					<img id ="Mifoto"src="image/MiFoto.jpg">
+					<h1 id="name">Joel Gonzales</h1>
+					<h2 id="twitter"><a href="https://twitter.com/joelengt">@joelengt</a></h2>
+				</div>
+
+	</body>
+</html>
