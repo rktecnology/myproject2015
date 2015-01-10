@@ -11,7 +11,7 @@
 		<center><h1>VAMOS A POR UN ÑANDU.... ;)</h1></center>
 
 				<div id="cajita1">
-					<h2>HOLAA!!!!!</h2>
+					<h2>HOLAA que tal!!!!!</h2>
 				</div>
 				<section id="cajitaSEction">
 					<h2> SOLO LA PRACTICA TE AYUDARA ;)</h2>
